@@ -37,10 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-<<<<<<< HEAD
     'drf_yasg',
-=======
->>>>>>> 43149efec31a04c136927feabbee64da68d1fd97
+    'libros',
+    'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
